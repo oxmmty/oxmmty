@@ -99,7 +99,7 @@
       <h2>
         🛠  Web, Blockchain, AI, FinTech, Marketplace, Game Engineering with leadership experience
     </h2>
-      <h2💻 What I Bring to the Table:</h2>
+      <h2>💻 What I Bring to the Table:</h2>
       <ul>
         <li><b><i>Web2 Wizardry:**</i></b> Expertise in modern web development, crafting robust and user-centric web applications using cutting-edge technologies like React, Next.js, Angular, Vue.js, Nuxt, Node.js, Nest.js, Python, Storybook, Jest, Prisma, Postgresql, MongoDB, etc.</li>
         <li><b><i>Web3 Integration:**</i></b> Pioneering the integration of Web3 technologies into the traditional web, enabling new paradigms in user experiences and data ownership.</li>
