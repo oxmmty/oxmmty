@@ -116,9 +116,9 @@
     <img height = "150px" style="margin-right: 10px;" src = "https://github-readme-streak-stats.herokuapp.com?user=mymiracle0118&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
   </p> -->
   
-  <p align="center">
+  <!-- <p align="center">
     <img height = "150px" style="margin-left: 10px;" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mymiracle0118&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
-  </p>
+  </p> -->
   
   <!-- <div style="display: flex; justify-content: center;">
     <span>
