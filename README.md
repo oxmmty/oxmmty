@@ -96,8 +96,7 @@
   </div>
    -->
   <div>
-      <h1>### Web, Blockchain, AI, FinTech, Marketplace, Game Engineering with leadership experience</h1>
-      <h2>If you always do what you always did, you will always get what you always got. Innovation will never happen if you do the same thing you always did</h2>
+      <h2>### Web, Blockchain, AI, FinTech, Marketplace, Game Engineering with leadership experience</h2>
       <h2>#### What I Bring to the Table:</h2>
       <ul>
         <li>- **Web2 Wizardry:** Expertise in modern web development, crafting robust and user-centric web applications using cutting-edge technologies like React, Next.js, Angular, Vue.js, Nuxt, Node.js, Nest.js, Python, Storybook, Jest, Prisma, Postgresql, MongoDB, etc.</li>
