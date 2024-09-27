@@ -14,7 +14,7 @@
       <tr>
         <td valign="center" width="100px"><b>Frontend<b></td>
         <td valign="center" width="100px"><b>Backend<b></td>
-        <td valign="center" width="100px"><b>DevOps<b></td>
+        <td valign="center" width="100px"><b>Blockchain<b></td>
       </tr>
       <tr>
         <td valign="center" align="center" width="300px">
@@ -49,21 +49,19 @@
           <img src="https://img.shields.io/badge/Nest.js-blue" /> 
         </td>
         <td valign="center" align="center" width="300px">
-          <img src="https://img.shields.io/badge/AWS-blue" /> 
-          <img src="https://img.shields.io/badge/CI/CD-blue" /> 
-          <img src="https://img.shields.io/badge/Docker-blue" /> 
-          <img src="https://img.shields.io/badge/TDD-blue" /> 
-          <img src="https://img.shields.io/badge/Jira-blue" /> 
-          <img src="https://img.shields.io/badge/Tezos-blue" /> 
-          <img src="https://img.shields.io/badge/MySQL-blue" /> 
-          <img src="https://img.shields.io/badge/NoSQL-blue" /> 
-          <img src="https://img.shields.io/badge/MongoDB-blue" /> 
-          <img src="https://img.shields.io/badge/PostgreSQL-blue" /> 
+            <img src="https://img.shields.io/badge/Web3.js-blue" /> 
+            <img src="https://img.shields.io/badge/Solidity-blue" /> 
+            <img src="https://img.shields.io/badge/Polkadot-blue" /> 
+            <img src="https://img.shields.io/badge/Solana-blue" /> 
+            <img src="https://img.shields.io/badge/Golang-blue" /> 
+            <img src="https://img.shields.io/badge/Rust-blue" /> 
+            <img src="https://img.shields.io/badge/Smart Contract-blue" /> 
+            <img src="https://img.shields.io/badge/Bitcoin-blue" />
         </td>
       </tr>
     </table>
     
-   <!-- <table>
+   <table>
       <tr>
         <td valign="center" width="100px"><b>Blockchain<b></td>
         <td valign="center" width="100px"><b>Audit<b></td>
@@ -86,7 +84,7 @@
          <img src="https://img.shields.io/badge/Cantina-blue" />
         </td>
       </tr>
-    </table> -->
+    </table>
   </div>
   
   <div align="center">
