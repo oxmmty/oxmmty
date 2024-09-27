@@ -60,44 +60,16 @@
         </td>
       </tr>
     </table>
-    
-   <!-- <table>
-      <tr>
-        <td valign="center" width="100px"><b>Blockchain<b></td>
-        <td valign="center" width="100px"><b>Audit<b></td>
-      </tr>
-      <tr>
-        <td valign="center" align="center" width="300px">
-          <img src="https://img.shields.io/badge/Web3.js-blue" /> 
-          <img src="https://img.shields.io/badge/Solidity-blue" /> 
-          <img src="https://img.shields.io/badge/Polkadot-blue" /> 
-          <img src="https://img.shields.io/badge/Solana-blue" /> 
-          <img src="https://img.shields.io/badge/Golang-blue" /> 
-          <img src="https://img.shields.io/badge/Rust-blue" /> 
-          <img src="https://img.shields.io/badge/Smart Contract-blue" /> 
-          <img src="https://img.shields.io/badge/Bitcoin-blue" />
-        </td>
-       <td valign="center" align="center" width="300px">
-         <img src="https://img.shields.io/badge/Code4rena-blue" /> 
-         <img src="https://img.shields.io/badge/Sherlock-blue" /> 
-         <img src="https://img.shields.io/badge/Hats-blue" /> 
-         <img src="https://img.shields.io/badge/Cantina-blue" />
-        </td>
-      </tr>
-    </table> -->
+  
   </div>
   
   <div align="center">
     <img src="https://github.com/mymiracle0118/mymiracle0118/blob/main/divider2.png" alt="divider"/>
   </div>
   
-  <!-- <div align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Readme Quotes"/>
-  </div>
-   -->
   <div>
       <h2>
-        🛠  Web, Blockchain, AI, FinTech, Marketplace, Game Engineering with leadership experience
+        🛠  Web, Blockchain, AI, Marketplace, Game Engineering with leadership experience
     </h2>
       <h2>💻 What I Bring to the Table:</h2>
       <ul>
@@ -112,25 +84,7 @@
   <div align="center">
     <img src="https://github.com/mymiracle0118/mymiracle0118/blob/main/divider2.png" alt="divider"/>
   </div>
-  
-  <!-- <p align="center">
-    <img height = "150px" style="margin-right: 10px;" src = "https://github-readme-streak-stats.herokuapp.com?user=mymiracle0118&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
-  </p> -->
-  
-  <!-- <p align="center">
-    <img height = "150px" style="margin-left: 10px;" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mymiracle0118&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
-  </p> -->
-  
-  <!-- <div style="display: flex; justify-content: center;">
-    <span>
-      <img height = "150px" style="margin-right: 10px;" src = "https://github-readme-streak-stats.herokuapp.com?user=mymiracle0118&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
-    </span>
-  
-    <span>
-      <img height = "150px" style="margin-left: 10px;" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mymiracle0118&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
-    </span>
-  </div> -->
-  
+
   <p align="center">
     <a href="https://www.linkedin.com/in/iwakihiroto/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/linkedin.png"  width="50" /></a>
     &nbsp;&nbsp;
