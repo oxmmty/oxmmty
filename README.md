@@ -88,7 +88,7 @@
   <p align="center">
     <a href="https://www.linkedin.com/in/toruichikawa/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/linkedin.png"  width="50" /></a>
     &nbsp;&nbsp;
-    <a href="oxmmty@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
+    <a href="mailto:oxmmty@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
     &nbsp;&nbsp;
     <a href="https://join.skype.com/invite/E3GqAXDFm2aW" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="50" /></a>
     &nbsp;&nbsp;
