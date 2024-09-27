@@ -97,8 +97,7 @@
    -->
   <div>
       <h2>
-        <img src="https://github.com/monarahmati/monarahmati/assets/107634745/0a2d0eb6-c838-4851-bf49-ee1865b15579" alt="man with laptop" width="60" height="60" marginTop="20" style={{ marginTop :"20ox"}} /> 
-        Web, Blockchain, AI, FinTech, Marketplace, Game Engineering with leadership experience
+        🛠  Web, Blockchain, AI, FinTech, Marketplace, Game Engineering with leadership experience
     </h2>
       <h2>#### What I Bring to the Table:</h2>
       <ul>
