@@ -96,7 +96,7 @@
     &nbsp;&nbsp;
     <a href="https://discordapp.com/users/1230674441172684851" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/3d-fluency/94/discord-logo.png"  width="50" /></a>
     &nbsp;&nbsp;
-    <a href="" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/link.png"  width="50" /></a>
+    <!-- <a href="" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/link.png"  width="50" /></a> -->
   </p>
   
   <div align="center">
