@@ -71,26 +71,6 @@
         <li><b><i>Security Advocate:**</i></b> A staunch advocate for security, I ensure that every line of code I write is thoroughly tested and follows the highest security standards.</li>
       </ul>
   </div>
-   
-  <div align="center">
-    <img src="https://github.com/mymiracle0118/mymiracle0118/blob/main/divider2.png" alt="divider"/>
-  </div>
-
-  <p align="center">
-    <a href="https://www.linkedin.com/in/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/linkedin.png"  width="50" /></a>
-    &nbsp;&nbsp;
-    <a href="mailto:oxmmty@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
-    &nbsp;&nbsp;
-    <a href="https://join.skype.com/invite/E3GqAXDFm2aW" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="50" /></a>
-    &nbsp;&nbsp;
-    <a href="https://t.me/oxmmty_o" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
-    &nbsp;&nbsp;
-    <!-- <a href="" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/link.png"  width="50" /></a> -->
-  </p>
-  
-  <div align="center">
-    <img src="https://github.com/mymiracle0118/mymiracle0118/blob/main/divider1.png" alt="divider"/>
-  </div>
   <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
   </p>
