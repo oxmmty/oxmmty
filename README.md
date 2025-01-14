@@ -37,7 +37,6 @@
           <img src="https://img.shields.io/badge/Flask-blue" /> 
           <img src="https://img.shields.io/badge/Laravel-blue" /> 
           <img src="https://img.shields.io/badge/Node.js-blue" /> 
-          <img src="https://img.shields.io/badge/Express-blue" /> 
           <img src="https://img.shields.io/badge/Nest.js-blue" /> 
         </td>
         <td valign="center" align="center" width="300px">
