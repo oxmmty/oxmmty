@@ -94,16 +94,12 @@
     &nbsp;&nbsp;
     <a href="https://t.me/oxmmty_o" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
     &nbsp;&nbsp;
-    <a href="https://discordapp.com/users/1230674441172684851" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/3d-fluency/94/discord-logo.png"  width="50" /></a>
-    &nbsp;&nbsp;
     <!-- <a href="" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/link.png"  width="50" /></a> -->
   </p>
   
   <div align="center">
     <img src="https://github.com/mymiracle0118/mymiracle0118/blob/main/divider1.png" alt="divider"/>
   </div>
-  
-  <h2 align="center"> Thanks for visiting my profile. </h2>
   <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
   </p>
