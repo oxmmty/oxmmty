@@ -2,7 +2,7 @@
     👋Welcome to visit my github👋
   </h1>
   <h2 align="center">
-    I am a Full Stack & Blockchain Developer.
+    I am a Blockchain & AI Engineer.
   </h2> 
   <h3 align="center"><img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/code.gif" height="20"/> Tech & Tools</h3>
   
