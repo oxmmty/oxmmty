@@ -79,10 +79,6 @@
   
   </div>
   
-  <div align="center">
-    <img src="https://github.com/mymiracle0118/mymiracle0118/blob/main/divider2.png" alt="divider"/>
-  </div>
-  
   <div>
       <h2>
         🛠  Web, Blockchain, AI, Marketplace, Game Engineering with leadership experience
