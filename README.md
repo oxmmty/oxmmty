@@ -2,7 +2,7 @@
     👋Welcome to visit my github👋
   </h1>
   <h2 align="center">
-    I am a Blockchain & AI Engineer.
+    I am an AI & Blockchain Engineer.
   </h2> 
   <h3 align="center"><img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/code.gif" height="20"/> Tech & Tools</h3>
   
@@ -81,17 +81,16 @@
   
   <div>
       <h2>
-        🛠  Blockchain, AI, Marketplace, Web, Game Engineering with leadership experience
+        🛠  AI & Blockchain with leadership experience
     </h2>
       <h2>💻 What I Bring to the Table:</h2>
       <ul>
-        <li><b><i>Blockchain Brilliance:</i></b> Proficiency in blockchain technologies such as Ethereum, Binance Smart Chain, Solana, Kadena and more. I design, develop, and audit smart contracts and build DApps.</li>
-        <li><b><i>Web3 Integration:</i></b> Pioneering the integration of Web3 technologies into the traditional web, enabling new paradigms in user experiences and data ownership.</li>
-        <li><b><i>AI Development:</i></b> Building intelligent systems and agents using technologies like Python, TensorFlow, PyTorch, OpenAI APIs, and LangChain. Experienced in creating AI-driven tools, LLM-powered bots, and integrating AI into Web2/Web3 platforms for next-gen user experiences.</li>
-        <li><b><i>Web2 Wizardry:</i></b> Expertise in modern web development, crafting robust and user-centric web applications using cutting-edge technologies like React, Next.js, Angular, Vue.js, Nuxt, Node.js, Nest.js, Python, Storybook, Jest, Prisma, Postgresql, MongoDB, etc.</li>
-        <li><b><i>Interdisciplinary Insights:</i></b> Bridging the gap between Web2 and Web3, I leverage my expertise to create seamless transitions, connecting the best of both worlds.</li>
-        <li><b><i>Security Advocate:</i></b> A staunch advocate for security, I ensure that every line of code I write is thoroughly tested and follows the highest security standards.</li>
-      </ul>
+        <li><b><i>AI Mastermind:</i></b> Deep expertise in designing and developing intelligent systems using Python, TensorFlow, PyTorch, JAX, and OpenAI APIs. Skilled in training custom models, fine-tuning large language models (LLMs), and integrating them into scalable products.</li>  
+<li><b><i>ML/DL Engineer:</i></b> Proficient in a wide array of machine learning and deep learning algorithms. From classical regression and classification models to advanced architectures like transformers, GANs, and diffusion models, I build solutions that learn, adapt, and scale.</li>  
+<li><b><i>Data-Driven Architect:</i></b> Experienced in data preprocessing, feature engineering, pipeline automation (using tools like MLflow and Airflow), and model evaluation. I ensure AI systems are explainable, efficient, and production-ready.</li>
+<li><b><i>AI in Blockchain:</i></b> Pioneering the use of AI for smart contract auditing, predictive analytics for on-chain behavior, and intelligent agents in decentralized ecosystems. I fuse AI with Web3 to unlock new automation and personalization paradigms.</li>
+<li><b><i>Cloud & Edge Intelligence:</i></b> Deploying AI at scale on cloud platforms (AWS, GCP, Azure) and edge devices. Skilled in containerization, API design, and CI/CD for AI systems to ensure fast iteration and secure, robust delivery.</li>
+</ul>
   </div>
   <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
