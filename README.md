@@ -2,7 +2,7 @@
     👋Welcome to visit my github👋
   </h1>
   <h2 align="center">
-    I am a Senior FullStack & AI Engineer.
+    I am a Senior FullStack & AI & Blockchain Engineer.
   </h2> 
   <h3 align="center"><img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/code.gif" height="20"/> Tech & Tools</h3>
   
@@ -41,6 +41,10 @@
             <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
             <br>PostgreSQL
         </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45" alt="Solidity" />
+            <br>Solidity
+        </td>
     </tr>
     <tr>
         <td align="center" width="96">
@@ -75,14 +79,10 @@
             <img src="https://skillicons.dev/icons?i=go" width="45" height="45" alt="php" />
             <br>Go
         </td>
-<!--         <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45" alt="Solidity" />
-            <br>Solidity
-        </td>
         <td align="center" width="90">
             <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Rust" />
               <br>Rust
-            </td> -->
+         </td>
     </tr>
 </table>
  
@@ -97,7 +97,8 @@
         <li><b><i>AI Mastermind:</i></b> Deep expertise in designing and developing intelligent systems using Python, TensorFlow, PyTorch, JAX, and OpenAI APIs. Skilled in training custom models, fine-tuning large language models (LLMs), and integrating them into scalable products.</li>  
 <li><b><i>ML/DL Engineer:</i></b> Proficient in a wide array of machine learning and deep learning algorithms. From classical regression and classification models to advanced architectures like transformers, GANs, and diffusion models, I build solutions that learn, adapt, and scale.</li>  
 <li><b><i>Data-Driven Architect:</i></b> Experienced in data preprocessing, feature engineering, pipeline automation (using tools like MLflow and Airflow), and model evaluation. I ensure AI systems are explainable, efficient, and production-ready.</li>
-<!-- <li><b><i>AI in Blockchain:</i></b> Pioneering the use of AI for smart contract auditing, predictive analytics for on-chain behavior, and intelligent agents in decentralized ecosystems. I fuse AI with Web3 to unlock new automation and personalization paradigms.</li> -->
+<li><b><i>AI in Blockchain:</i></b> Pioneering the use of AI for smart contract auditing, predictive analytics for on-chain behavior, and intelligent agents in decentralized ecosystems. I fuse AI with Web3 to unlock new automation and personalization paradigms.</li>
+<li><b><i>Blockchain:</i></b> Experienced in designing and developing decentralized systems across EVM-compatible chains, Solana, and custom blockchain architectures. Proficient in smart contract development (Solidity, Rust, C++), DeFi protocols, NFT marketplaces, and on-chain/off-chain integrations. </li>
 <li><b><i>Cloud & Edge Intelligence:</i></b> Deploying AI at scale on cloud platforms (AWS, GCP, Azure) and edge devices. Skilled in containerization, API design, and CI/CD for AI systems to ensure fast iteration and secure, robust delivery.</li>
 </ul>
   </div>
